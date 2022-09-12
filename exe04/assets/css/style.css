@@ -1,0 +1,34 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tbody{
+    margin: auto;
+    padding: 15px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: auto;
+}
+
+.titulospeq{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+
+thead{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+th, td{
+    text-align: center;
+}
+
+.titulosesq{
+    text-align: left;
+}
+.titulosesq20{
+    text-align: left;
+    padding-left: 20px;
+}

@@ -1,0 +1,24 @@
+body{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+img {
+    width: 280px;
+    height: 230px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: none;
+}
+#citação{
+    font-family: arial; 
+    font-size: 12px;
+    margin-left: 80px;
+}
+#imgref{
+    text-align: center;
+    margin-top: 5px;
+}

@@ -1,0 +1,12 @@
+body{
+text-align: justify;
+font-family: type;
+}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,30 @@
+#conteiner{
+    display: flex ;
+    border: 3px solid #783F27;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.item{
+    background-color: #F6F3ED;
+    margin: 10px;
+    padding: 10px;
+    border: 1px dotted #800000;
+    flex-direction: column;
+    display: flex;
+    flex: 1 1 200px;
+}
+#titulo{
+    background-color: #800000;
+    color: #F9AB33;
+    margin: 10px;
+    padding: 10px;
+    flex: 1 1 200px;
+}
+.preço{
+    padding: 5px;
+    background-color: #F9AB33;
+    text-align: center;
+    margin-top: auto;
+}
